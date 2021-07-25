@@ -1,0 +1,50 @@
+.mystyle{
+    width: 200px;
+    margin-right: 130px !important;
+}
+.allbutton{
+    margin-right:90px ;
+}
+.mynav li{
+ font-size: 20px;
+ display: inline-block;
+ margin: 10px;
+ 
+}
+.mynav li:hover{
+    background-color: lightgray;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.mynav li a{
+    text-decoration: none;
+    color: black;
+}
+.slider{
+    height: 30em;
+}
+.card{
+    display: inline-block;
+    margin: 10px;
+}
+.card img{
+    /* width: 100%; */
+    
+}
+.loadMore{
+    margin: 5px;
+    text-align: center;
+}
+.footer{
+    background-color: lightgray;
+}
+.footer ul{
+    display: inline-block;
+    margin-left: 8%;
+}
+.footer ul li{
+    list-style: none;
+}
+#mydiv{
+    display:none;
+}
